@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "UnrealBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Blockville_SMP.aternos.me",
-    "port": 63828,
+    "ip": "Blockville-SMP.aternos.me",
+    "port": 29146,
     "version": "1.21.1"
   },
   "position": {
